@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #FBFAF8;
+}
+
+.img-ubicacion{
+    text-align: center;
+}
+
+.enviar{
+    background-color: #474747;
+    color: #FBFAF8;
+    width: 120px;
+    height: 35px;
+    border: none;
+    border-radius: 20px;
+}
+
+footer{
+    height: 25vh;
+    background-color: #151515;
+    color: rgb(209, 209, 209);
+    display: flex;
+    align-items: center;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.texto{
+    width: 500px;
+}
+
+.icons a i{
+    margin-left: 30px;
+    color: #fff;
+    font-size: 30px;
+}
